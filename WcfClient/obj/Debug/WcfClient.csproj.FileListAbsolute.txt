@@ -1,0 +1,28 @@
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfService.dll
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfService.pdb
+C:\Users\apvit\source\repos\WcfService\WcfClient\bin\Debug\WcfService.dll.config
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.csproj.AssemblyReference.cache
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.Form1.resources
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.Properties.Resources.resources
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.csproj.GenerateResource.cache
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.csproj.CopyComplete
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\apvit\source\repos\WcfService\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfService.dll
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfService.pdb
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\bin\Debug\WcfService.dll.config
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.Form1.resources
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.Properties.Resources.resources
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.csproj.CopyComplete
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfClient\obj\Debug\WcfClient.pdb

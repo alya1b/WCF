@@ -1,0 +1,14 @@
+C:\Users\apvit\source\repos\WcfService\WcfService\bin\WcfService.dll.config
+C:\Users\apvit\source\repos\WcfService\WcfService\bin\WcfService.dll
+C:\Users\apvit\source\repos\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\apvit\source\repos\WcfService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\apvit\source\repos\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\apvit\source\repos\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\apvit\source\repos\WcfService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\bin\WcfService.dll.config
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\bin\WcfService.dll
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\alisa\source\repos\WcfService (3)\WcfService\WcfService\obj\Debug\WcfService.pdb
